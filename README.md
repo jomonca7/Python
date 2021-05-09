@@ -6,7 +6,7 @@ There are **52.521.875** , not a large number for the actual computers.
 This is only an example of how fast can extract weak passwords 
 
 <h2>Libraries</h2>
-I have use **hashlib** for extract the hash values, **multiprocessing** for parallel programing and **time** to obtain the total time of the program.
+I have use hashlib for extract the hash values, multiprocessing for parallel programing and time to obtain the total time of the program.
 
 <h2>Results</h2>
 After differents examples this are the results
